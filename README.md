@@ -1,1 +1,1 @@
-# ApplyScholarship
+# education-website
